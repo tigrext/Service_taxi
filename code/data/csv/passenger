@@ -1,0 +1,12 @@
+"ID","IS_ANONYMOUS","NAME","AGE","HOME_ADDRESS_ID","PHONE_NUMBER","IS_MALE"
+1,0,"Ivanov Nikita Borisovich",25,1,"89153862440",1
+2,1,"Kokorev Dmitriy Vladimirovich",32,25,"89153352243",1
+3,0,"Fomichev Alexander Perovich",24,47,"89153862368",1
+4,0,"Pushkina Valeriya Georgievna",19,4,"89134862440",0
+5,1,"Kovalev Dmitriy Semenovich",34,94,"89154965440",1
+6,0,"Grishina Anna Dmitrievna",27,148,"89345762540",0
+7,0,"Frolov Pavel Pavlovich",56,193,"89153863440",1
+8,1,"Moschina Ekaterina Victorovna",43,358,"89153542496",0
+9,1,"Koneva Elizaveta Ivanovna",22,63,"89153869234",0
+10,1,"Pupkin Aleksey Sergeevich",37,548,"89132359233",1
+11,1,"Filova Ekaterina Borisovna",68,396,"89153243223",0

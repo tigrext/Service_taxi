@@ -1,0 +1,48 @@
+"ID","NAME","CITY_ID"
+1,"Bulvar Acadimica Landau",1
+2,"Kremlevskaya",1
+3,"Moscworeckaya",1
+4,"Maroseyka",1
+5,"Novomarinskaya",1
+6,"Rose",2
+7,"Sovetskaya",2
+8,"Voykova",2
+9,"Egorova",2
+10,"Chaikovskiy",2
+11,"Canal St",3
+12,"Admiralteyskaya",11
+13,"Engenernaya",11
+14,"Clenova",11
+15,"Chambers",3
+16,"Franklin",3
+17,"Backster",3
+18,"Green",3
+19,"Mercer",3
+20,"Sheri",4
+21,"Abu",4
+22,"Sheraton",4
+23,"Alkauhter",4
+24,"Savfeti",5
+25,"Ebus Suud",5
+26,"Jaferie",5
+27,"Ischapasha",5
+28,"Spandarian",6
+29,"Shinararner",6
+30,"Raffi",6
+31,"Hadjan",6
+32,"Rozbrat",7
+33,"Vilcha",7
+34,"Yazduv",7
+35,"Juravaya",7
+36,"Ezuitskaya",8
+37,"Zamkova",8
+38,"Podvale",8
+39,"Vesola",8
+40,"Plattesteen",9
+41,"Zuidstraat",9
+42,"Anspah",9
+43,"Solvayplein",9
+44,"Chausee",10
+45,"Mahatma Gandhi",10
+46,"Rue Osseghem",10
+47,"Rue Jules Delhaize",10

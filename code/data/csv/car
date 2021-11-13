@@ -1,0 +1,16 @@
+"ID","BRAND","MODEL","COLOR","IS_RESERVED","STATE_NUMBER","PARKING_ID","MILEAGE"
+1,"Toyota","Camry","Black",0,"с423со_197",1,4129
+2,"Hundai","Solaris","Yellow",1,"с123пи_195",2,15300
+3,"Ford","Focus","White",1,"к513вл_50",3,26000
+17,"Kia","Rio","Yellow",1,"с453со_197",4,53954
+18,"Kia","Ceed","Blue",1,"с953тм_193",5,94024
+19,"Lada","Vesta","Black",1,"с356пг_195",6,5360
+20,"Kia","Optima","White",1,"т457цр_80",7,140684
+21,"Volkswagen","Passat","Grey",1,"р975юк_25",8,14964
+29,"Hundai","Solaris","Blue",1,"с666пи_195",16,73346
+32,"Toyota","Corolla","Black",1,"с247кн_183",17,95730
+33,"Hundai","Creta","Red",1,"у793шл_195",18,43869
+34,"Toyota","Camry","Black",1,"д357бу_197",19,120450
+35,"Hundai","Solaris","Yellow",1,"л174фр_197",20,186170
+36,"Kia","Rio","Black",0,"в586ры_193",21,49645
+37,"Toyota","Camry","Green",0,"с962пл_192",22,32000
